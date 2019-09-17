@@ -1,5 +1,4 @@
-# NightWatch-Selenium-Sample
-##### [NightWatch Documentation](http://nightwatchjs.org/)
+# Applitools-LambdaTest-Integration
 ![LAMBDATEST Logo](http://labs.lambdatest.com/images/fills-copy.svg)
 
 
@@ -48,4 +47,4 @@ You will see the test result in the [Lambdatest Dashboard](https://automation.la
 ### Resources
 
 ##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
-##### [Applitools Java Documentation] (https://www.applitools.com/tutorials/selenium-java.html)
+##### [Applitools Java Documentation](https://www.applitools.com/tutorials/selenium-java.html)
