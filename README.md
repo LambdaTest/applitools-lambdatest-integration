@@ -5,8 +5,8 @@
 ### Environment Setup
 
 1. Global Dependencies
-    * Install [Java v10] [https://www.java.com/en/download/help/download_options.xml]
-    * Install [Maven] [https://maven.apache.org/download.cgi]
+    * Install [Java v10](https://www.java.com/en/download/help/download_options.xml)
+    * Install [Maven](https://maven.apache.org/download.cgi)
     
 2. lambdatest Credentials
     * In the terminal export your lambdatest Credentials as environmental variables:
